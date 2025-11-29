@@ -6,7 +6,7 @@
     "tasks": [
       { "task": "Set up Git repository", "completed": false },
       { "task": "Create initial branches", "completed": false },
-      { "task": "Implement JSON & YAML files", "completed": true123 }
+      { "task": "Implement JSON & YAML files", "completed": falsetrue }
     ]
   }
 }
