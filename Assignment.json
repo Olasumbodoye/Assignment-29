@@ -1,0 +1,12 @@
+{
+  "assignment": {
+    "title": "DevOps Training",
+    "author": "Olasumbo Akinrodoye",
+    "due_date": "2025-12-15",
+    "tasks": [
+      { "task": "Set up Git repository", "completed": false },
+      { "task": "Create initial branches", "completed": false },
+      { "task": "Implement JSON & YAML files", "completed": false }
+    ]
+  }
+}
