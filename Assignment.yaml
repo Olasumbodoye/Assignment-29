@@ -1,0 +1,38 @@
+# assignment.yaml
+assignment:
+  name: DevOps Training Exercise
+  id: 001
+  description: >
+    This assignment is designed to practice Git, GitHub, and basic DevOps workflows.
+    Tasks include cloning repositories, creating branches, committing changes, and pushing to remote.
+
+tasks:
+  - task_id: 1
+    title: Clone the repository
+    description: Clone the repository to your local machine using Git.
+    status: pending
+
+  - task_id: 2
+    title: Create a new branch
+    description: Create a branch called "feature_assignment" from main.
+    status: pending
+
+  - task_id: 3
+    title: Add a file
+    description: Create a file called "assignment.yaml" with this content and commit it.
+    status: pending
+
+  - task_id: 4
+    title: Commit changes
+    description: Commit your changes with a descriptive commit message.
+    status: pending
+
+  - task_id: 5
+    title: Push to GitHub
+    description: Push the branch to the remote repository and open a pull request.
+    status: pending
+
+author:
+  name: Olasumbo Akinrodoye
+  email: olasumbo@example.com
+  date_created: 2025-11-29
