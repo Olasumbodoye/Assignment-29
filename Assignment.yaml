@@ -8,5 +8,5 @@ assignment:
     - task: "Create initial branches"
       completed: false
     - task: "Implement JSON & YAML files"
-      completed: false
+      completed: true
 
